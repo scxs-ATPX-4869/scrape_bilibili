@@ -42,3 +42,8 @@ subprocess.run(cmd_ffmpeg)
 subprocess.run(cmd_cd)
 subprocess.run(cmd_convert)
 '''
+
+# some errors
+'''
+FileNotFoundError
+'''
